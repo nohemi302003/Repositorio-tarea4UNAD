@@ -1,0 +1,15 @@
+[2026-05-07 22:47:07] ERROR: Email 'darwin_error' no es válido.
+[2026-05-07 22:47:07] ERROR: Celular 'CEL_LETRAS' debe ser numérico.
+[2026-05-07 22:47:07] ERROR: Email 'jh' no es válido.
+[2026-05-07 22:47:07] ERROR: Nombre 'Vi' muy corto.
+[2026-05-07 22:47:07] ERROR: Email 'k@error' no es válido.
+[2026-05-07 23:04:22] ERROR: Simulación: Email 'darwin_error' inválido.
+[2026-05-07 23:04:22] ERROR: Simulación: Celular 'CEL_LETRAS' debe ser numérico.
+[2026-05-07 23:04:22] ERROR: Simulación: Email 'jh' inválido.
+[2026-05-07 23:04:22] ERROR: Simulación: Nombre 'Vi' muy corto.
+[2026-05-07 23:04:22] ERROR: Simulación: Email 'k@error' inválido.
+[2026-05-07 23:08:13] ERROR: Simulación: Email 'darwin_error' inválido.
+[2026-05-07 23:08:13] ERROR: Simulación: Celular 'CEL_LETRAS' debe ser numérico.
+[2026-05-07 23:08:13] ERROR: Simulación: Email 'jh' inválido.
+[2026-05-07 23:08:13] ERROR: Simulación: Nombre 'Vi' muy corto.
+[2026-05-07 23:08:13] ERROR: Simulación: Email 'k@error' inválido.
